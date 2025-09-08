@@ -36,4 +36,5 @@ PDFPlumber (for PDF parsing)
 
 LLM APIs (e.g., OpenAI, Gemini, etc.)
 
+## Author
 Built by [Bilal Saeed](https://github.com/BilalSaeed1234) as part of an AI projects portfolio.
